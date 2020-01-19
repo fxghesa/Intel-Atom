@@ -1,0 +1,17 @@
+printf "Selamat Datang Peternak"
+printf " Login Sebagai :"
+printf "Owner"
+printf "Admin"
+
+if Owner=true
+printf "Username" 
+printf "Password"
+
+kondisi di atas terpenuhi
+printf "Atur"
+printf "Cek"
+
+if admin=true
+printf "Suhu sekarang"
+printf "Kelembapan sekarang"
+printf "Waktu tersisa"

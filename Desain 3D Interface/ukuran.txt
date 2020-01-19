@@ -1,0 +1,11 @@
+Atas :30,3x40,6
+Bawah :30,3x40,6
+Kanan :30x30
+Kiri :30x30
+Belakang :40,6;30
+Depan :40,6x30,6
+Tiang : 1x1;tinggi 30cm
+Penutup kabel :30x40
+
+nb : triplek ukuran 3mm
+
